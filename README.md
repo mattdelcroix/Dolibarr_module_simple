@@ -1,0 +1,1 @@
+# Dolibarr_module_simple
